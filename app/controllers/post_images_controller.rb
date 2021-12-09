@@ -11,6 +11,7 @@ class PostImagesController < ApplicationController
     else
       render :new
     end
+
   end
 
   def index
